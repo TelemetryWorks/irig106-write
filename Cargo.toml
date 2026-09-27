@@ -2,6 +2,7 @@
 name = "irig106-write"
 version = "0.0.1"
 edition = "2024"
+rust-version = "1.85"
 description = "Deterministic serialization and packet generation for authoring compliant IRIG 106 Chapter 10 files."
 repository = "https://github.com/TelemetryWorks/irig106-write"
 license = "Apache-2.0"
